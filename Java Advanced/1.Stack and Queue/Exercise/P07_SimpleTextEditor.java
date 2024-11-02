@@ -1,12 +1,12 @@
 import java.util.*;
 
-public class Main {
+public class P07_SimpleTextEditor {
 
     public ArrayDeque<String> stack = new ArrayDeque<>();
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Main editor = new Main();
+        P07_SimpleTextEditor editor = new P07_SimpleTextEditor();
         int n = scanner.nextInt();
         scanner.nextLine();
 

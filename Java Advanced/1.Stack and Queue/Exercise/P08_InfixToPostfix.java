@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class P08_InfixToPostfix {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] expressions = scanner.nextLine().split("\\s+");

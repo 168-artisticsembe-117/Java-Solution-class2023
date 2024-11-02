@@ -2,7 +2,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Scanner;
 
-public class Main {
+public class P08_BrowserHistoryUpgrade {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Deque<String> history = new ArrayDeque<>();

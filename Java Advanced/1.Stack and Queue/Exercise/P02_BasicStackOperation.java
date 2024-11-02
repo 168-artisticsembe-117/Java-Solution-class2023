@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 import java.util.Scanner;
 
-public class Main {
+public class P02_BasicStackOperation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] infos = scanner.nextLine().split("\\s+");

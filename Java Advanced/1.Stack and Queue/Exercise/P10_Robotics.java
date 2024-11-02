@@ -2,7 +2,7 @@ import java.util.*;
 import java.text.SimpleDateFormat;
 import java.text.ParseException;
 
-public class Main {
+public class P10_Robotics {
     public static void main(String[] args) throws ParseException {
         Scanner scanner = new Scanner(System.in);
 

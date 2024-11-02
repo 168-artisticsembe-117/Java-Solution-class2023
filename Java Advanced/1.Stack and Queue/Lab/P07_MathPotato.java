@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class E07MathPotato {
+public class P07_MathPotato {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         PriorityQueue<String> priorityQueue = new PriorityQueue<>();
